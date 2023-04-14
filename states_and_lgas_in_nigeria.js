@@ -635,7 +635,7 @@ let states = [
             "Ojo",
             "Oshodi-Isolo",
             "Shomolu",
-            "Surulere",,
+            "Surulere",
         ]
     },
     {
